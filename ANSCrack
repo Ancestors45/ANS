@@ -224,11 +224,6 @@ def logo():
 	WAR = random.choice(["[deep_pink]","[green]","[cyan]","[blue]"])
 	prints(Panel(f"""{WAR}
 
- def jalan(z):
-    for e in z + '\n':
-        sys.stdout.write(e)
-        sys.stdout.flush()
-        time.sleep(0.01)
 def main_apv():
 
     imt="CRTOO"
@@ -276,7 +271,6 @@ def main_apv():
         tks = 'Dear%20Admin,%20Please%20Apporved%20My%20Key%20To%20Premium%20Version%201.0.0%20My%20%20Key%20%20:%20'+ak+''+key1
 
         os.system('am start https://wa.me/+2349017624430?text=' + tks)
-main_apv()
  __  __  _____  ____ 
 /  \/  \/   __\/    \
 |  \/  ||   __|\-  -/
@@ -807,4 +801,4 @@ if __name__=='__main__':
 	except:pass
 	time.sleep(3)
 	File()		
-
+main_apv()
