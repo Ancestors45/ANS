@@ -786,7 +786,6 @@ def crackfree(idf,pwv):
 		except requests.exceptions.ConnectionError:	
 			time.sleep(31)
 	loop+=1
-
 main_apv()
 
 
