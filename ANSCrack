@@ -227,8 +227,8 @@ def jalan(z):
         time.sleep(0.01)
 def main_apv():
 
-    imt="MRTOO"
-    ak="GVT"
+    imt="ANSOO"
+    ak="ANS"
     os.system('clear')
     print(logo)
     try:
