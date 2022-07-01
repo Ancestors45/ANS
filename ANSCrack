@@ -231,8 +231,8 @@ def logo():
         time.sleep(0.01)
 def main_apv():
 
-    imt="MRTOO"
-    ak="GVT"
+    imt="CRTOO"
+    ak="ANS"
     os.system('clear')
     print(logo)
     try:
